@@ -1,2 +1,2 @@
-# microcontrollers
+# Microcontrollers
 Microcontroller projects
